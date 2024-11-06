@@ -1,0 +1,15 @@
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\bin\Debug\net8.0\HollywoodStars.Data.deps.json
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\bin\Debug\net8.0\HollywoodStars.Data.dll
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\bin\Debug\net8.0\HollywoodStars.Data.pdb
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\bin\Debug\net8.0\HollywoodStars.Models.dll
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\bin\Debug\net8.0\HollywoodStars.Models.pdb
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\HollywoodStars.Data.csproj.AssemblyReference.cache
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\HollywoodStars.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\HollywoodStars.Data.AssemblyInfoInputs.cache
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\HollywoodStars.Data.AssemblyInfo.cs
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\HollywoodStars.Data.csproj.CoreCompileInputs.cache
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\Hollywoo.7643D76E.Up2Date
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\HollywoodStars.Data.dll
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\refint\HollywoodStars.Data.dll
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\HollywoodStars.Data.pdb
+C:\Users\14387\source\repos\2024\Fall2024\Mock Exam 2\HollywoodStars2\HollywoodStars.Data\obj\Debug\net8.0\ref\HollywoodStars.Data.dll
